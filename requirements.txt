@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+matplotlib-venn
+seaborn
+plotly
+scikit-learn
+fastapi
+joblib
+uvicorn
+pydantic
